@@ -1,0 +1,17 @@
+{
+	"name": "node-mb",
+	"version": "1.0.0",
+	"description": "Tiny megabyte conversion utility",
+	"main": "index.js",
+	"repository": "bwbjustin/node-mb",
+	"keywords": [
+		"byte",
+		"mb",
+		"megabyte",
+		"node",
+		"node-mb",
+		"node-megabyte"
+	],
+	"author": "BWBJustin",
+	"license": "MIT"
+}
